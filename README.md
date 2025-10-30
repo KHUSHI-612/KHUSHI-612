@@ -1,6 +1,10 @@
-## Hi there 👋
+ 🌟 Hey there, I'm Khushi!
+💻 B.Tech CSE (AI) student | 👩‍💻 Frontend Developer
 
 ![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHUSHI-612&show_icons=true&theme=radical)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,git,github" />
+![Holopin badges](https://www.holopin.io/@khushi612/badge.svg?style=flat)  
+
 <!--
 **KHUSHI-612/KHUSHI-612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
