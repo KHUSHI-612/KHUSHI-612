@@ -1,6 +1,7 @@
  🌟 Hey there, I'm Khushi!
-💻 B.Tech CSE (AI) student | 👩‍💻 Frontend Developer
+💻 B.Tech CSE (AI) student | 👩‍💻 Frontend Developer |
 supercontributer in hacktoberfest2025
+
 
 ![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHUSHI-612&show_icons=true&theme=radical)
 
