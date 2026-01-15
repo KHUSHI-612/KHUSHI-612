@@ -2,7 +2,6 @@
 computer science student & full-stack developer  <br>i build web applications using react, node, express, and mongodb.  <br>currently improving dsa and exploring open-source.<br>
 [![An image of @khushi612's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushi612)](https://holopin.io/@khushi612)
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khushi-batra-14a114324/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushibatra306@gmail.com) 
 
