@@ -28,8 +28,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KHUSHI-612&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KHUSHI-612&icon=0&color=0)](https://visitcount.itsvg.in)
